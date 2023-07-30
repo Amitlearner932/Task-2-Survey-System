@@ -1,2 +1,2 @@
 # Online survey system
-Made By Amit Patel
+I Have Developed Online Survey System In Java Using IntelliJ Idea
